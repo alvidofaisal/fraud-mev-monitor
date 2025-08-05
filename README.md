@@ -50,7 +50,7 @@ graph TD
 docker compose up --build
 ```
 Services:
-- `http://localhost:8000` – FastAPI (docs at `/docs`)
+- `http://localhost:8000` – FastAPI 
 - `http://localhost:9090` – Prometheus
 - `http://localhost:3000` – Grafana (admin/admin)
 - `http://localhost:8089` – Locust UI
